@@ -1,6 +1,6 @@
 # Styled-Profile
 
-**TG CHANNEL :** https://t.me/DHTMLSC
+**TG CHANNEL :** https://t.me/ZeroFuse
 
 _DESKTOP AND MOBILE FRIENDLY_
 
