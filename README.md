@@ -4,8 +4,7 @@
 
 _DESKTOP AND MOBILE FRIENDLY_
 
-`Website :` https://styled-profile.codersensui.repl.co/
-
+`Website :` https://sensui-useless-projects.codersensui.repl.co/profile
 ~
 
 **MOBILE VIEW**
